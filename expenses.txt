@@ -1,0 +1,10 @@
+zhilin Food 15
+zhilin Transportation 20
+zhilin Sport 10
+bowie Perfume 1500
+zhilin Drinks 10
+ian Food 20
+ian Drinks 5
+faris Food 20
+faris Transport 15
+mei Shopping 600

@@ -1,0 +1,43 @@
+User: bowie
+Monthly Budget: RM1000
+Total Expense: RM1500
+Remaining: -RM500
+----------------------------------------
+1. Perfume - RM1500
+
+
+User: ian
+Monthly Budget: RM500
+Total Expense: RM25
+Remaining: RM475
+----------------------------------------
+1. Food - RM20
+2. Drinks - RM5
+
+
+
+User: faris
+Monthly Budget: RM1000
+Total Expense: RM35
+Remaining: RM965
+----------------------------------------
+1. Food - RM20
+2. Transport - RM15
+
+
+User: mei
+Monthly Budget: RM500
+Total Expense: RM600
+Remaining: -RM100
+----------------------------------------
+1. Shopping - RM600
+
+User: zhilin
+Monthly Budget: RM1000
+Total Expense: RM55
+Remaining: RM945
+----------------------------------------
+1. Food - RM15
+2. Transportation - RM20
+3. Sport - RM10
+4. Drinks - RM10
